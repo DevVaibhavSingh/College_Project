@@ -1,0 +1,146 @@
+.navbar {
+    width: 100%;
+    position:sticky;
+    height: 60px;
+}
+
+.container-fluid h3 {
+    color: white;
+}
+
+#ham {
+    height: 30px;
+}
+
+.full {
+    display: flex;
+    position: sticky;
+}
+
+.left {
+    width: 20%;
+    height: 800px;
+    position: sticky;
+}
+
+.middle {
+    width: 60%;
+    height: auto;
+    background-color:rgba(245, 245, 245, 0.649);
+    display: flex;
+    flex-direction: column;
+
+}
+
+.statuss {
+    margin-left: 150px;
+    margin-top: 40px;
+    width: 600px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.status-header {
+    display: flex;
+}
+
+.status-date {
+    margin-left: 20px;
+}
+
+
+.status textarea {
+    margin-top: 20px;
+    width: 600px;
+    height: 150px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    text-indent: 20px;
+    padding-top: 20px;
+    resize: none;
+    margin-left: 150px;
+}
+.right {
+    width: 20%;
+    height: 800px;
+}
+
+.admin {
+    color: #FFC107;
+}
+
+.post-button {
+    position: absolute;
+    margin-left: -60px;
+    margin-top: 130px;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.left button {
+    width: 140px;
+    height: 40px;
+    margin-bottom: 20px;
+    
+}
+
+#megha-small {
+    height: 80px;
+}
+
+#megha-small:hover {
+    height: 100px;
+}
+
+.chatbox {
+    margin-top: 40px;
+}
+
+#chat {
+    height: 100px;
+    width: 100px;
+}
+
+.chatbox button {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+#megha {
+    height: 100px;
+}
+
+.offcanvas-header {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-list {
+    display: flex;
+}
+
+.add-comment input {
+    width: 600px;
+    border: none;
+}
+
+.buttons-for-form input, button {
+    margin: 20px;
+}
+
+.buttons-for-form input {
+    width: 340px;
+    height: 45px;
+    border-radius: 20px;
+    border: none;
+    text-indent: 10px;
+}
+

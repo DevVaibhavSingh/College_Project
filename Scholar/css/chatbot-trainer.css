@@ -1,0 +1,28 @@
+.forms input:not(.xyz) {
+    height: 80px;
+    width: 500px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    text-indent: 20px;
+}
+
+.forms {
+    margin-left: 100px;
+}
+
+.xyz {
+    height: 40px;
+    margin-top: 20px;
+    width: 150px;
+    margin-left: 170px;
+}
+
+#new {
+    background-color: white;
+    border: none;
+}
+
+.megha button img:hover {
+    height: 100px;
+}

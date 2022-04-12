@@ -1,0 +1,16 @@
+.admin {
+    color: #FFC107;
+}
+
+.line-one {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.line-one button {
+    margin-left: 20px;
+}
+.btn {
+    height: 60px;
+    font-weight: 400;
+}
